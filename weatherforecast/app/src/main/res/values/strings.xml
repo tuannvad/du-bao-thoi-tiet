@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">weatherforecast</string>
+    <string name="hintSearchCity">Input city name...</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="speedWind">SpeedWind</string>
+    <string name="temperatureMax">Temp Max</string>
+    <string name="temperatureMin">Temp Min</string>
+    <string name="clouds">Clouds</string>
+    <string name="loading">Loading</string>
+    <string name="notInternet">Not Connect Internet</string>
+    <string name="Error">Error</string>
+    <string name="develop">Develop By</string>
+    <string name="tuannv">Tuannv007</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="menu_1">menu1</string>
+    <string name="menu_2">menu2</string>
+    <string name="inbox_string">aaa</string>
+    <string name="weather">Weather</string>
+    <string name="share">Share</string>
+    <string name="action_settings">aaa</string>
+</resources>
